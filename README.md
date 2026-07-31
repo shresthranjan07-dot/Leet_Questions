@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shresthranjan07-dot/Leet_Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1603-running-sum-of-1d-array](https://github.com/shresthranjan07-dot/Leet_Questions/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/shresthranjan07-dot/Leet_Questions/tree/master/1791-richest-customer-wealth) |
+| [2048-build-array-from-permutation](https://github.com/shresthranjan07-dot/Leet_Questions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/shresthranjan07-dot/Leet_Questions/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -45,5 +46,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2048-build-array-from-permutation](https://github.com/shresthranjan07-dot/Leet_Questions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/shresthranjan07-dot/Leet_Questions/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
