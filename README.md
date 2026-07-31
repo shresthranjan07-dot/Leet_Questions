@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shresthranjan07-dot/Leet_Questions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shresthranjan07-dot/Leet_Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [1603-running-sum-of-1d-array](https://github.com/shresthranjan07-dot/Leet_Questions/tree/master/1603-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/shresthranjan07-dot/Leet_Questions/tree/master/0389-find-the-difference) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/shresthranjan07-dot/Leet_Questions/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
