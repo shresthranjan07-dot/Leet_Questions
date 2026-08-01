@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shresthranjan07-dot/Leet_Questions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shresthranjan07-dot/Leet_Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/shresthranjan07-dot/Leet_Questions/tree/master/0027-remove-element) |
 | [0217-contains-duplicate](https://github.com/shresthranjan07-dot/Leet_Questions/tree/master/0217-contains-duplicate) |
 | [1603-running-sum-of-1d-array](https://github.com/shresthranjan07-dot/Leet_Questions/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/shresthranjan07-dot/Leet_Questions/tree/master/1791-richest-customer-wealth) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shresthranjan07-dot/Leet_Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/shresthranjan07-dot/Leet_Questions/tree/master/0027-remove-element) |
 | [1894-merge-strings-alternately](https://github.com/shresthranjan07-dot/Leet_Questions/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
