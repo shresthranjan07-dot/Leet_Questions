@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shresthranjan07-dot/Leet_Questions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/shresthranjan07-dot/Leet_Questions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/shresthranjan07-dot/Leet_Questions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/shresthranjan07-dot/Leet_Questions/tree/master/0389-find-the-difference) |
 ## Two Pointers
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/shresthranjan07-dot/Leet_Questions/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/shresthranjan07-dot/Leet_Questions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shresthranjan07-dot/Leet_Questions/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/shresthranjan07-dot/Leet_Questions/tree/master/0389-find-the-difference) |
 | [1894-merge-strings-alternately](https://github.com/shresthranjan07-dot/Leet_Questions/tree/master/1894-merge-strings-alternately) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/shresthranjan07-dot/Leet_Questions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/shresthranjan07-dot/Leet_Questions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/shresthranjan07-dot/Leet_Questions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/shresthranjan07-dot/Leet_Questions/tree/master/0389-find-the-difference) |
 ## Prefix Sum
 |  |
