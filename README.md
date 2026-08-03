@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/shresthranjan07-dot/Leet_Questions/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/shresthranjan07-dot/Leet_Questions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/shresthranjan07-dot/Leet_Questions/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/shresthranjan07-dot/Leet_Questions/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/shresthranjan07-dot/Leet_Questions/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/shresthranjan07-dot/Leet_Questions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shresthranjan07-dot/Leet_Questions/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/shresthranjan07-dot/Leet_Questions/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/shresthranjan07-dot/Leet_Questions/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/shresthranjan07-dot/Leet_Questions/tree/master/1894-merge-strings-alternately) |
 ## Bit Manipulation
 |  |
@@ -72,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shresthranjan07-dot/Leet_Questions/tree/master/0014-longest-common-prefix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/shresthranjan07-dot/Leet_Questions/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
