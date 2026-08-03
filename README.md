@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shresthranjan07-dot/Leet_Questions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/shresthranjan07-dot/Leet_Questions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shresthranjan07-dot/Leet_Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shresthranjan07-dot/Leet_Questions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/shresthranjan07-dot/Leet_Questions/tree/master/0088-merge-sorted-array) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/shresthranjan07-dot/Leet_Questions/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/shresthranjan07-dot/Leet_Questions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/shresthranjan07-dot/Leet_Questions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/shresthranjan07-dot/Leet_Questions/tree/master/0242-valid-anagram) |
@@ -66,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/shresthranjan07-dot/Leet_Questions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/shresthranjan07-dot/Leet_Questions/tree/master/2058-concatenation-of-array) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/shresthranjan07-dot/Leet_Questions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
