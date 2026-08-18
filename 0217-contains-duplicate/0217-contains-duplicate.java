@@ -1,14 +1,15 @@
 class Solution {
     public boolean containsDuplicate(int[] nums) {
-       Set<Integer> numSet = new HashSet<>();
+        Set<Integer> set = new HashSet<>();
 
         for (int n : nums) {
-            if (numSet.contains(n)) {
+            if (set.contains(n)) {
                 return true;
             }
-            numSet.add(n);
+
+            set.add(n);
         }
-        
-        return false;    
+
+        return false;
     }
 }
