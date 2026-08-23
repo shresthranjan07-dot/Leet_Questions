@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/shresthranjan07-dot/Leet_Questions/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/shresthranjan07-dot/Leet_Questions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/shresthranjan07-dot/Leet_Questions/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shresthranjan07-dot/Leet_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/shresthranjan07-dot/Leet_Questions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/shresthranjan07-dot/Leet_Questions/tree/master/0283-move-zeroes) |
 | [1603-running-sum-of-1d-array](https://github.com/shresthranjan07-dot/Leet_Questions/tree/master/1603-running-sum-of-1d-array) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/shresthranjan07-dot/Leet_Questions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/shresthranjan07-dot/Leet_Questions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/shresthranjan07-dot/Leet_Questions/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shresthranjan07-dot/Leet_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/shresthranjan07-dot/Leet_Questions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/shresthranjan07-dot/Leet_Questions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/shresthranjan07-dot/Leet_Questions/tree/master/0392-is-subsequence) |
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/shresthranjan07-dot/Leet_Questions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/shresthranjan07-dot/Leet_Questions/tree/master/0066-plus-one) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shresthranjan07-dot/Leet_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
