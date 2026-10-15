@@ -135,4 +135,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shresthranjan07-dot/Leet_Questions/tree/master/0005-longest-palindromic-substring) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/shresthranjan07-dot/Leet_Questions/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/shresthranjan07-dot/Leet_Questions/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
