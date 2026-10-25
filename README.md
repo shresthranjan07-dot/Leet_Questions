@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/shresthranjan07-dot/Leet_Questions/tree/master/1791-richest-customer-wealth) |
 | [2048-build-array-from-permutation](https://github.com/shresthranjan07-dot/Leet_Questions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/shresthranjan07-dot/Leet_Questions/tree/master/2058-concatenation-of-array) |
+| [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/shresthranjan07-dot/Leet_Questions/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shresthranjan07-dot/Leet_Questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shresthranjan07-dot/Leet_Questions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/shresthranjan07-dot/Leet_Questions/tree/master/0389-find-the-difference) |
+| [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/shresthranjan07-dot/Leet_Questions/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/shresthranjan07-dot/Leet_Questions/tree/master/0387-first-unique-character-in-a-string) |
+| [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/shresthranjan07-dot/Leet_Questions/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Greedy
 |  |
 | ------- |
